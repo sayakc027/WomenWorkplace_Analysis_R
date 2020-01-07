@@ -6,4 +6,6 @@ The gender pay gap is the gap between what people are paid. Most generally, it a
 
 We would perform an exploratory data examination on the chronicled information about ladies’ profit and business status. We will utilize summaries and diagrams, in order to find designs and to spot peculiarities. When we recognize the loopholes, we could progress in the direction of connecting the crisis in particular areas and promote fairness.
 
+RPubs Link: http://rpubs.com/SayakChakraborty/WomenInTheWorkplace
+
 Authors - Sayak Chakraborty | Vipul Mayank
